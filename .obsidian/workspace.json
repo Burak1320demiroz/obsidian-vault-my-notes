@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cae6eed8a7a792be",
+        "id": "1473a5e80d37f278",
         "type": "tabs",
         "children": [
           {
-            "id": "3e0ef42f17105102",
+            "id": "1b25a58fdcb547f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math/geometry/polynomial_and_coons_surfaces.md",
+                "file": "trex/Açıklanabilir Yapay Zeka (Explainable AI - XAI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "polynomial_and_coons_surfaces"
+              "title": "Açıklanabilir Yapay Zeka (Explainable AI - XAI)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 502.5
   },
   "right": {
     "id": "400b32a741960e18",
@@ -183,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "3e0ef42f17105102",
+  "active": "1b25a58fdcb547f8",
   "lastOpenFiles": [
-    "math/geometry/geometry_index.md",
-    "math/geometry/geometry_exam_practice.md",
-    "math/geometry/advanced_bezier_and_sweep_surfaces.md",
-    "math/geometry/polynomial_and_coons_surfaces.md",
-    "math/geometry/bezier_curves_and_surfaces.md",
-    "math/geometry/bezier_surface_types_and_degree_elevation.md",
-    "math/geometry/curves_and_interpolation.md",
-    "math/geometry/surfaces_and_planes.md",
-    "math/geometry/lofted_surfaces.md",
-    "math/geometry/bezier_and_bernstein_polynomials.md",
-    "math/geometry/polynomial_interpolation.md",
-    "math/geometry/lagrange_polynomials.md",
-    "math/geometry/Bezier Eğrisi ve Bernstein Polinomları.md",
-    "math/geometry/Geometry Index.md",
-    "math/geometry/Polinom İnterpolasyonu.md",
-    "math/geometry/Lagrange Polinomları.md",
     "math/linear_algebra/README.md",
-    "otonom_cars/README.md",
-    "otonom_cars",
-    "math/geometry/Polinom İnterpolasyonu",
-    "math/geometry/README.md",
-    "math/abstract_algebra/README.md",
-    "math/geometry.md",
-    "math/geometry",
     "math/abstract_algebra/ring_theory_examples.md",
     "math/abstract_algebra/ring_theory.md",
-    "math/abstract_algebra/Ring Theory Examples.md",
-    "math/abstract_algebra/examples.md",
-    "cyber_security/WSTG - Latest/4_0_introduction_and_objectives.md",
+    "math/geometry/advanced_bezier_and_sweep_surfaces.md",
+    "trex/SHAP (SHapley Additive exPlanations).md",
+    "trex/Özellik Mühendisliği (Feature Engineering).md",
+    "machine_learning/xgboost.md",
+    "machine_learning/simple_linear_regression.md",
+    "trex/Nightwatch (Anomali Tespiti ve İzleme Sistemi).md",
+    "trex/Senaryo Analizi (What-if Analysis).md",
+    "trex/PostgreSQL Veritabanı (RDBMS - OLTP).md",
+    "trex/Kurumsal Kaynak Planlama (Enterprise Resource Planning - ERP).md",
+    "trex/Kök Neden Analizi (Root Cause Analysis - RCA).md",
+    "trex/ClickHouse Veritabanı (Columnar OLAP).md",
+    "trex/Açıklanabilir Yapay Zeka (Explainable AI - XAI).md",
+    "trex/What-if_Analizi.md",
+    "trex/Temel Performans Göstergesi (Key Performance Indicator - KPI).md",
+    "trex/Toplam Ekipman Etkinliği (Overall Equipment Effectiveness - OEE).md",
+    "trex/Üretim Yönetim Sistemi (Manufacturing Execution System - MES).md",
+    "trex/rename.py",
+    "trex/Kök Neden Analizi (Root Cause Analysis - RCA) .md",
+    "trex/XAI.md",
+    "trex/RCA_Kok_Neden_Analizi.md",
+    "trex/PostgreSQL.md",
+    "trex/OEE.md",
+    "trex/Nightwatch.md",
+    "trex/MES.md",
+    "trex",
+    "otonom_cars",
+    "math/geometry/Polinom İnterpolasyonu",
+    "math/geometry",
     "cyber_security/WSTG - Latest/4_1_informati_gathering",
     "cyber_security/WSTG - Latest",
     "data_enginer/SQL",
     "data_enginer",
-    "cyber_security/portswigger_all_labs/SQL_injection",
-    "math/linear_algebra",
-    "math/Untitled"
+    "cyber_security/portswigger_all_labs/SQL_injection"
   ]
 }
